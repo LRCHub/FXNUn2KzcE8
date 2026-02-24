@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心を刺す言葉だけ（feat. 初音ミク、可不）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-24T14:20:25.368430Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心を刺す言葉だけ (feat. 初音ミク & 可不)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_心を刺す言葉だけ_(feat._初音ミク_&_可不)_MIMI.txt"
+    }
+  ]
+}
